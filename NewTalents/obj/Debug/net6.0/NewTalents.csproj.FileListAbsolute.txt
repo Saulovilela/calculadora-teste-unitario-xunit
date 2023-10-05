@@ -1,0 +1,15 @@
+C:\Users\Saulo\workspace\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.exe
+C:\Users\Saulo\workspace\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.deps.json
+C:\Users\Saulo\workspace\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.runtimeconfig.json
+C:\Users\Saulo\workspace\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.dll
+C:\Users\Saulo\workspace\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.pdb
+C:\Users\Saulo\workspace\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.csproj.AssemblyReference.cache
+C:\Users\Saulo\workspace\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saulo\workspace\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.AssemblyInfoInputs.cache
+C:\Users\Saulo\workspace\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.AssemblyInfo.cs
+C:\Users\Saulo\workspace\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\Users\Saulo\workspace\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.dll
+C:\Users\Saulo\workspace\NewTalents\NewTalents\obj\Debug\net6.0\refint\NewTalents.dll
+C:\Users\Saulo\workspace\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.pdb
+C:\Users\Saulo\workspace\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.genruntimeconfig.cache
+C:\Users\Saulo\workspace\NewTalents\NewTalents\obj\Debug\net6.0\ref\NewTalents.dll
